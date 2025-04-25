@@ -55,4 +55,6 @@ void loop() {
     digitalWrite(piezo, LOW); // Alarme
   }
 }
- 
+
+# LINK TINKERCAD
+https://www.tinkercad.com/things/9ekSgkH0Qzu-cp1edgecomputing-2/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=H-0n_tPBmX1mYFvxORChFUasPD_-DNlzyGDCBBhnkc4
