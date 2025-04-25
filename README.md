@@ -2,6 +2,7 @@
 Matheus Cerciari - RM 565817
 Arthur Gil - RM 555746
 Henrique Vicente - RM 564116
+Luis Gustavo - RM 566023
 
 
 # Sistema de Monitoramento de Luminosidade com Arduino
