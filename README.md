@@ -1,3 +1,9 @@
+# integrantes
+Matheus Cerciari - RM 565817
+Arthur Gil - RM 555746
+Henrique Vicente - RM 564116
+
+
 # Sistema de Monitoramento de Luminosidade com Arduino
 Este projeto implementa o Checkpoint 01 do caso “Vinheria Agnello” para monitorar a luminosidade de um ambiente de armazenamento de vinhos. Utiliza um sensor LDR, três LEDs de status e um buzzer, tudo simulado no Tinkercad e documentado em Arduino C/C++.
 # Visão geral
@@ -58,3 +64,5 @@ void loop() {
 
 # LINK TINKERCAD
 https://www.tinkercad.com/things/9ekSgkH0Qzu-cp1edgecomputing-2/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=H-0n_tPBmX1mYFvxORChFUasPD_-DNlzyGDCBBhnkc4
+
+
